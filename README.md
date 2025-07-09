@@ -1,8 +1,5 @@
-# devops-bootcamp-pdf-notes-and-solutions
-
-# DevOps Bootcamp – Notes & Solutions (PDF Collection)
-
-# DevOps Bootcamp – Notes & Solutions (PDF Collection)
+´
+# DevOps Bootcamp – My Notes & Solutions (PDF Collection)
 
 This repository contains **all of my personal work, notes, and solutions** for each individual topic covered throughout the entire DevOps Bootcamp.
 
